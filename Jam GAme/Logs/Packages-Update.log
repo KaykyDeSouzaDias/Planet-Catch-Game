@@ -1,0 +1,10 @@
+
+=== Fri Jun 11 20:09:53 2021
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.visualscripting@1.6.1
+The following packages were updated:
+  com.unity.ide.rider from version 3.0.6 to 3.0.7
