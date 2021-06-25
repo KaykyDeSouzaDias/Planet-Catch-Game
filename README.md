@@ -8,7 +8,11 @@ Kayky Dias (Programming): https://kayky-dias.itch.io/ \
 Vorian (Testing): https://voriansomni.itch.io/ \
 Makorii (Team Lead): https://makorii-devs.itch.io/ \
 LuckyLuke (2D Art): https://lluckyluke.itch.io/ \
-Lecastro (Sound Design): https://lecastro.itch.io/
+Lecastro (Sound Design): https://lecastro.itch.io/ \
+\
+Discord participations:
+- Alex Nevsky#4457
+- RhinoRaids#1312
 
 ![](https://github.com/KaykyDeSouzaDias/Planet-Catch-Game/blob/main/IMGs%26GIFs/GameplayGIF.gif)
 ![](https://github.com/KaykyDeSouzaDias/Planet-Catch-Game/blob/main/IMGs%26GIFs/01.png)
